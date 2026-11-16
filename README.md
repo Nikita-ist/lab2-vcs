@@ -11,3 +11,7 @@
 
 Проект демонстрирует слабую связность через интерфейсы: интерфейс ICompressor и компрессоры ZIP, GZIP, BZIP2, LZMA, объединённые через ArchiveManager.
 
+## Установка
+dotnet restore
+dotnet build
+
