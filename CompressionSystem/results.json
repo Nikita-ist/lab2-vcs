@@ -1,0 +1,38 @@
+[
+  {
+    "Algorithm": "ZIP",
+    "OutputPath": "output\\sample.txt.zip",
+    "OriginalSize": 1157679,
+    "CompressedSize": 83824,
+    "Elapsed": "00:00:00.0146379",
+    "RoundTripOk": true,
+    "Ratio": 7.240694527584934
+  },
+  {
+    "Algorithm": "GZIP",
+    "OutputPath": "output\\sample.txt.gz",
+    "OriginalSize": 1157679,
+    "CompressedSize": 83736,
+    "Elapsed": "00:00:00.0144342",
+    "RoundTripOk": true,
+    "Ratio": 7.233093111302874
+  },
+  {
+    "Algorithm": "BZIP2",
+    "OutputPath": "output\\sample.txt.bz2",
+    "OriginalSize": 1157679,
+    "CompressedSize": 46357,
+    "Elapsed": "00:00:00.2363875",
+    "RoundTripOk": true,
+    "Ratio": 4.004305165767022
+  },
+  {
+    "Algorithm": "LZMA",
+    "OutputPath": "output\\sample.txt.lzma",
+    "OriginalSize": 1157679,
+    "CompressedSize": 79927,
+    "Elapsed": "00:00:00.4885858",
+    "RoundTripOk": true,
+    "Ratio": 6.904072717912306
+  }
+]
